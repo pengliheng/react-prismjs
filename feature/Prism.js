@@ -6,11 +6,11 @@ import React from "react";
 import { PropTypes } from "prop-types"
 
 class PrismCode extends React.Component {
-  static propTypes = {
-    lang: PropTypes.string,
-    lineHighlight: PropTypes.string,
-    children: PropTypes.array
-  }
+  // static propTypes () {
+  //   lang: PropTypes.string,
+  //   lineHighlight: PropTypes.string,
+  //   children: PropTypes.array
+  // }
 
   render() {
     const {children, lang, lineHighlight} = this.props
