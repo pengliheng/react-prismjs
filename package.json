@@ -1,0 +1,21 @@
+{
+  "name": "react-prismjs",
+  "version": "1.0.0",
+  "description": "use react with prism.js",
+  "main": "./feature/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pengliheng/react-prismjs"
+  },
+  "author": "pengliheng",
+  "keywords": [
+    "node",
+    "prismjs",
+    "highlight",
+    "react"
+  ],
+  "license": "ISC"
+}
